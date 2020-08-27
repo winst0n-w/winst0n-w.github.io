@@ -28,4 +28,4 @@ Some questions I wanted to answer were:
 * How does my music taste change over time?
 
 * How do my playlists differ from each other?
-<img src="https://user-images.githubusercontent.com/65275850/91394130-450e8180-e7ef-11ea-879c-b52dbb58dbf5.png" alt="spotify" width="450" height="400">
+<img src="https://user-images.githubusercontent.com/65275850/91394130-450e8180-e7ef-11ea-879c-b52dbb58dbf5.png" alt="spotify" width="425" height="400" class="center">
