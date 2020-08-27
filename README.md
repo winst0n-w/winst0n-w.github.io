@@ -23,4 +23,4 @@ Some questions I wanted to answer were:
 * What type of music do I listen to? (in terms of the different features Spotify has)
 * How does my music taste change over time?
 * How do my playlists differ from each other?
-<img src="https://user-images.githubusercontent.com/65275850/91394130-450e8180-e7ef-11ea-879c-b52dbb58dbf5.png" alt="spotify" width="500" height="450" class="center">
+<img src="https://user-images.githubusercontent.com/65275850/91476486-ea5a4180-e851-11ea-90d6-c338949f755c.png" alt="spotify" width="500" height="450" class="center">
