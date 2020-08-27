@@ -8,7 +8,7 @@ For now, my goal is to land a Data Analyst/Business Analyst internship for Summe
 
 You can check out my Tableau works [here](https://public.tableau.com/profile/winston.wang4842#!/).
 
-If anything on this page seemes interesting or if you want to chat about music or food - connect with me [here]!(https://www.linkedin.com/in/winstonw5/) :grinning:
+If anything on this page seemes interesting or if you want to chat about music or food - connect with me [here](https://www.linkedin.com/in/winstonw5/)! :grinning:
 
 
 # [Spotify Playlist Data Exploration](https://github.com/winst0n-w/spotify-analysis/blob/master/Spotify%20Playlists%20Data%20Exploration.ipynb)
