@@ -1,4 +1,4 @@
-# Welcome to my GitHub! 
+# Welcome! 
 
 I'm a junior at Boston University majoring in Business Administration with a double concentration in Business Analytics and MIS. I have previous marketing experiences, serving as an account manager at Guerrilla Marketing Society and as a marketing specialist at Data 4 Good. This summer, I was also a Marketing Operations Intern at City National Bank.
 
