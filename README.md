@@ -1,4 +1,4 @@
-## Welcome to my GitHub! 
+# Welcome to my GitHub! 
 
 I'm a junior at Boston University majoring in Business Administration with a double concentration in Business Analytics and MIS. I have previous marketing experiences, serving as an account manager at Guerrilla Marketing Society and as a marketing specialist at Data 4 Good. This summer, I was also a Marketing Operations Intern at City National Bank.
 
@@ -12,7 +12,7 @@ If anything on this page seemes interesting or if you just want to chat about mu
 
 
 
-# [Spotify Playlist Data Exploration](https://github.com/winst0n-w/spotify-analysis/blob/master/Spotify%20Playlists%20Data%20Exploration.ipynb)
+## [Spotify Playlist Data Exploration](https://github.com/winst0n-w/spotify-analysis/blob/master/Spotify%20Playlists%20Data%20Exploration.ipynb)
 
 I listen to music probably all the time and one thing I always look forward to is Spotify's year-end summary and seeing that year's stats and my favorite artists and tracks.
 
