@@ -29,4 +29,4 @@ Some questions I wanted to answer were:
 
 * How do my playlists differ from each other?
 
-![spotify](https://user-images.githubusercontent.com/65275850/91394130-450e8180-e7ef-11ea-879c-b52dbb58dbf5.png)
+![spotify](https://user-images.githubusercontent.com/65275850/91394130-450e8180-e7ef-11ea-879c-b52dbb58dbf5.png =200x200)
