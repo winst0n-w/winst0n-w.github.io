@@ -2,9 +2,7 @@
 
 I'm a junior at Boston University majoring in Business Administration with a double concentration in Business Analytics and MIS. I have previous marketing experiences, serving as an account manager at Guerrilla Marketing Society and as a marketing specialist at Data 4 Good. This summer, I was also a Marketing Operations Intern at City National Bank.
 
-I recently discovered a passion for data and the power it has to improve our lives. As I begin my data journey, I will be documenting my progress here through personal projects and I hope to combine my business acumen and technical skills to land a data scientist role in the future.
-
-For now, my goal is to land a Data Analyst/Business Analyst internship for Summer 2021.
+I recently discovered a passion for data and the potential it has to improve our lives. I hope to combine my business acumen and technical skills to land a data scientist role in the future. For now, my goal is to land a Data Analyst/Business Analyst internship for Summer 2021.
 
 You can check out my Tableau works [here](https://public.tableau.com/profile/winston.wang4842#!/).
 
