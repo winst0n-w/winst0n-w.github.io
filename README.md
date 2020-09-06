@@ -4,7 +4,7 @@ I'm a junior at Boston University, majoring in Business Administration with a do
 
 I recently discovered a passion for data and the potential it has to improve our lives. I hope to combine my business acumen and technical skills to land a data scientist role in the future. For now, my goal is to land a Data Analyst/Business Analyst internship for Summer 2021.
 
-You can check out my Tableau works [here](https://public.tableau.com/profile/winston.wang4842#!/).
+You can check out my Tableau [here](https://public.tableau.com/profile/winston.wang4842#!/).
 
 If anything on this page seems interesting or if you just want to chat - connect with me [here](https://www.linkedin.com/in/winstonw5/)! :)
 
@@ -12,7 +12,7 @@ If anything on this page seems interesting or if you just want to chat - connect
 
 ## [Spotify Playlist Data Exploration](https://github.com/winst0n-w/spotify-analysis/blob/master/Spotify%20Playlists%20Data%20Exploration.ipynb)
 
-I listen to music probably all the time and one thing I always look forward to is Spotify's year-end summary and seeing that year's stats and my favorite artists and tracks.
+I listen to music all the time and one thing I always look forward to is Spotify's year-end summary and seeing that year's stats and my favorite artists and tracks.
 
 
 I discovered that you can use Spotify's API to extract information about your Spotify profile. To build upon the Python skills I learned in school, I decided to use the Python library, Spotipy, to write a script to extract information on some of my playlists and its tracks. Along with the tracks, I also analyzed the track features that Spotify offers such as danceability, energy, valence, etc. 
