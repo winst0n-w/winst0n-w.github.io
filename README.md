@@ -8,6 +8,13 @@ You can check out my Tableau [here](https://public.tableau.com/profile/winston.w
 
 If anything on this page seems interesting or if you just want to chat - connect with me [here](https://www.linkedin.com/in/winstonw5/)! :)
 
+## [NBA 2K Ratings Prediction](https://github.com/winst0n-w/2k-rating/blob/master/2K%20Ratings.ipynb)
+After going down a YouTube rabbit hole and watching a compilation of NBA players complain about their 2K ratings, I started wondering what 2K takes into account when they decide those ratings. I wanted to see if I can try predicting the ratings using a few of the more common statistics such as points, assists, and rebounds with regression models in Python. 
+
+I wrote a Python script to scrape 2K ratings from hoopshype.com and downloaded stats of every NBA player in the past 7 seasons from basketball-reference.com to form the dataset I used in this project.
+
+
+
 
 
 ## [Spotify Playlist Data Exploration](https://github.com/winst0n-w/spotify-analysis/blob/master/Spotify%20Playlists%20Data%20Exploration.ipynb)
